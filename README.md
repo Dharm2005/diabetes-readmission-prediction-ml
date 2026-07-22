@@ -194,8 +194,8 @@ The final model was selected based on overall balanced performance and recall fo
 
 | Artifact | Description |
 |----------|-------------|
-| cleaned_data.csv | Output after data cleaning |
-| feature_engineered_data.csv | Dataset after feature engineering |
+| cleaned.csv | Output after data cleaning |
+| final_dataset.csv | Dataset after feature engineering |
 | preprocessing_pipeline.pkl | Saved preprocessing pipeline |
 | final_model.pkl | Trained Logistic Regression model |
 
@@ -206,7 +206,7 @@ The final model was selected based on overall balanced performance and recall fo
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Diabetes-Readmission-Prediction-ML.git
+git clone https://github.com/Dharm2005/Diabetes-Readmission-Prediction-ML.git
 ```
 
 Install dependencies
@@ -243,7 +243,7 @@ The deployed Streamlit application is available here:
 
 **Diabetes Patient Readmission Prediction - Streamlit Application**
 
-(Add your GitHub repository link here.)
+https://github.com/Dharm2005/Diabetes-Readmission-Predictor
 
 ---
 
